@@ -1,0 +1,7 @@
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\bin\Release\DAL.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\bin\Release\DAL.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\bin\Release\Infrastructure.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\bin\Release\Infrastructure.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\obj\Release\DAL.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\DAL\obj\Release\DAL.pdb
