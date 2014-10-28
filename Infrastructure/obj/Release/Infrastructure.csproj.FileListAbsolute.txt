@@ -1,4 +1,0 @@
-D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\bin\Release\Infrastructure.dll
-D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\bin\Release\Infrastructure.pdb
-D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\obj\Release\Infrastructure.dll
-D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\obj\Release\Infrastructure.pdb
