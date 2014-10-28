@@ -1,0 +1,5 @@
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\bin\Debug\Infrastructure.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\obj\Debug\Infrastructure.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\Infrastructure\obj\Debug\Infrastructure.pdb

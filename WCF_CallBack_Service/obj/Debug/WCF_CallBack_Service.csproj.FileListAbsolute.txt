@@ -1,0 +1,17 @@
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\WCF_CallBack_Service.dll.config
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\WCF_CallBack_Service.dll
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\WCF_CallBack_Service.pdb
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.csprojResolveAssemblyReference.cache
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.dll
+E:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\WCF_CallBack_Service.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\WCF_CallBack_Service.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\obj\Debug\WCF_CallBack_Service.csprojResolveAssemblyReference.cache
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\BLL.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\Infrastructure.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\DAL.dll
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\BLL.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\Infrastructure.pdb
+D:\C#运行结果\WCF_Callback_NetTcpDuplexContract\WCF_CallBack_Service\bin\DAL.pdb
